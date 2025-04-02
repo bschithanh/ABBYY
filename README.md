@@ -27,6 +27,8 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 - Run file **INSTALL FULL.cmd** bằng quyền **Run as Administrator**
 - Tiếp tục run file **ABBYY.FineReader.PDF.16.v16.0.14.7295-full.exe** bằng quyền **Run as Administrator** là xong.
 
+## [ABBYY FineReader Pdf Corporate16.0.14.7295_TryRooM](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EvUolEc84UNHjJPB0lh6XbQBxyj73LmISdszdsnztG18qA?e=jpf1BL)
+
 ## ABBYY 15:
 - Download ABBYY 15 [tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EeOgvXJBb91PqmFJ1Zhi9k4BlB2MmqETpebhwXL_hD4c5w?e=Vq6hRj) 
 - Dowload vacxin ABBYY 15 [tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/Ed97FcdrJndAjy465C-_cXABKHFctU8sazlJc-mNmHL80g?e=KmDHzI)
