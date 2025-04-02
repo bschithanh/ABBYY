@@ -28,6 +28,13 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 - Tiếp tục run file **ABBYY.FineReader.PDF.16.v16.0.14.7295-full.exe** bằng quyền **Run as Administrator** là xong.
 
 ## [ABBYY FineReader Pdf Corporate16.0.14.7295_TryRooM](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EvUolEc84UNHjJPB0lh6XbQBxyj73LmISdszdsnztG18qA?e=jpf1BL)
+- Download về giải nén
+- Run file Silent Installation EN.cmd bằng quyền Run as Administrator
+- Run file ABBYY.FineReader.PDF.16.0.14.7295.exe
+- ![image](https://github.com/user-attachments/assets/e9b6d03e-39a6-4d4f-a591-6a376793d3f9)
+- ![image](https://github.com/user-attachments/assets/b759ef17-6ac9-4f09-a1b0-e3ff7d6dce33)
+- ![image](https://github.com/user-attachments/assets/c26b3726-fb5a-4d76-8a9f-36f8af384872)
+- Xong!
 
 ## ABBYY 15:
 - Download ABBYY 15 [tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EeOgvXJBb91PqmFJ1Zhi9k4BlB2MmqETpebhwXL_hD4c5w?e=Vq6hRj) 
