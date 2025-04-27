@@ -24,6 +24,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   
   ![image](https://github.com/user-attachments/assets/a7231b91-2068-48a7-b67d-fc1a85cd42ce)
 
+- Install file **VC_redist.x64.exe**
 - Run file **INSTALL FULL.cmd** bằng quyền **Run as Administrator**
 - Tiếp tục run file **ABBYY.FineReader.PDF.16.v16.0.14.7295-full.exe** bằng quyền **Run as Administrator** là xong.
 
